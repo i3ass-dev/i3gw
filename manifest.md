@@ -1,8 +1,8 @@
 ---
 description: >
   a ghost window wrapper for i3wm
-updated:       2019-02-19
-version:       0.174
+updated:       2020-08-12
+version:       2020.08.12.0
 author:        budRich
 repo:          https://github.com/budlabs/i3ass
 created:       2017-01-11
